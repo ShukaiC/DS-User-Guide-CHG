@@ -29,6 +29,7 @@ To help users fully embrace DesignSafe functionalities, we have developed a suit
 
 * [**Hurricane Data Integration & Visualization**](pinelli/2usecase.md) (10/2023)
 * [**ADCIRC Datasets**](dawson/usecase2.md)  (ADCIRC, pylauncher, Jupyter, Dataset) (10/2023)
+* [**Visualization of ADCIRC Results using Kalpana**](dawson/usecase3.md)  (ADCIRC, Kalpana, Jupyter, Visualization) (05/2024)
 * [**Large-Scale Ensemble Simulations of Storm Surge**](dawson/usecase.md)  (ADCIRC, pylauncher, Jupyter, HPC)
 * [**Visualization of Storm Surge Impacts**](padgett/usecase.md) (ADCIRC, Jupyter, QGIS)
 * [**Simulation of Wind Flow around Buildings**](kareem/usecase.md) (OpenFOAM, Jupyter, Paraview, HPC)
